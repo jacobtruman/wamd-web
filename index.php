@@ -10,7 +10,7 @@
 
 require_once("AutoLoad.php");
 
-$api_key = "AIzaSyBJABwkkuOtokkRw4gDBQZocYz4UL-O2k8";
+$api_key = "GOOGLE API KEY";
 
 ?>
 <!DOCTYPE html>
